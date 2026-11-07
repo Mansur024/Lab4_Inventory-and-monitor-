@@ -1,0 +1,70 @@
+{
+  "collected_at": "2026-11-07 16:34:54",
+  "system": {
+    "hostname": "DESKTOP-6H5HE33",
+    "os": "Windows",
+    "os_version": "10.0.26100",
+    "architecture": "AMD64",
+    "boot_time": "2026-11-07 15:39"
+  },
+  "cpu": {
+    "model": "AMD64 Family 23 Model 160 Stepping 0, AuthenticAMD",
+    "physical_cores": 4,
+    "logical_cores": 8,
+    "max_freq_mhz": 2801,
+    "load_percent": 26.2
+  },
+  "memory": {
+    "total_gb": 15.3,
+    "used_percent": 50.7,
+    "available_gb": 7.5
+  },
+  "disks": [
+    {
+      "device": "C:\\",
+      "mountpoint": "C:\\",
+      "fs": "NTFS",
+      "total_gb": 476.0,
+      "used_percent": 20.8
+    }
+  ],
+  "network": [
+    {
+      "interface": "Ethernet",
+      "ipv4": "192.168.56.1",
+      "netmask": "255.255.255.0",
+      "mac": "0A-00-27-00-00-12"
+    },
+    {
+      "interface": "Local Area Connection* 8",
+      "ipv4": "169.254.190.121",
+      "netmask": "255.255.0.0",
+      "mac": "96-BB-43-95-C6-6B"
+    },
+    {
+      "interface": "Local Area Connection* 10",
+      "ipv4": "169.254.23.242",
+      "netmask": "255.255.0.0",
+      "mac": "9A-BB-43-95-C6-6B"
+    },
+    {
+      "interface": "Wi-Fi",
+      "ipv4": "10.68.2.97",
+      "netmask": "255.255.224.0",
+      "mac": "94-BB-43-95-C6-6B"
+    },
+    {
+      "interface": "Bluetooth Network Connection",
+      "ipv4": "169.254.234.216",
+      "netmask": "255.255.0.0",
+      "mac": "94-BB-43-95-C6-6A"
+    },
+    {
+      "interface": "Loopback Pseudo-Interface 1",
+      "ipv4": "127.0.0.1",
+      "netmask": "255.0.0.0",
+      "mac": null
+    }
+  ],
+  "recommendations": []
+}
